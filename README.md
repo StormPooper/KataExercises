@@ -1,5 +1,5 @@
-Katas Exercises
-===============
+Kata Exercises
+==============
 
 A collection of Katas in both C# and JavaScript, ready to be run.
 
